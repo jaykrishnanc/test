@@ -1,0 +1,23 @@
+{
+  "name": "mcq",
+  "version": "1.0.0",
+  "description": "na",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaykrishnanc/test.git"
+  },
+  "author": "Jayakrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaykrishnanc/test/issues"
+  },
+  "homepage": "https://github.com/jaykrishnanc/test",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "express": "^4.12.3"
+  }
+}
